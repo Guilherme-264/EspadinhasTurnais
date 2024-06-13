@@ -1,0 +1,14 @@
+C:\Users\selau\alura\C#\EspadinhasTurnais\bin\Debug\net8.0\EspadinhasTurnais.exe
+C:\Users\selau\alura\C#\EspadinhasTurnais\bin\Debug\net8.0\EspadinhasTurnais.deps.json
+C:\Users\selau\alura\C#\EspadinhasTurnais\bin\Debug\net8.0\EspadinhasTurnais.runtimeconfig.json
+C:\Users\selau\alura\C#\EspadinhasTurnais\bin\Debug\net8.0\EspadinhasTurnais.dll
+C:\Users\selau\alura\C#\EspadinhasTurnais\bin\Debug\net8.0\EspadinhasTurnais.pdb
+C:\Users\selau\alura\C#\EspadinhasTurnais\obj\Debug\net8.0\EspadinhasTurnais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selau\alura\C#\EspadinhasTurnais\obj\Debug\net8.0\EspadinhasTurnais.AssemblyInfoInputs.cache
+C:\Users\selau\alura\C#\EspadinhasTurnais\obj\Debug\net8.0\EspadinhasTurnais.AssemblyInfo.cs
+C:\Users\selau\alura\C#\EspadinhasTurnais\obj\Debug\net8.0\EspadinhasTurnais.csproj.CoreCompileInputs.cache
+C:\Users\selau\alura\C#\EspadinhasTurnais\obj\Debug\net8.0\EspadinhasTurnais.dll
+C:\Users\selau\alura\C#\EspadinhasTurnais\obj\Debug\net8.0\refint\EspadinhasTurnais.dll
+C:\Users\selau\alura\C#\EspadinhasTurnais\obj\Debug\net8.0\EspadinhasTurnais.pdb
+C:\Users\selau\alura\C#\EspadinhasTurnais\obj\Debug\net8.0\EspadinhasTurnais.genruntimeconfig.cache
+C:\Users\selau\alura\C#\EspadinhasTurnais\obj\Debug\net8.0\ref\EspadinhasTurnais.dll
